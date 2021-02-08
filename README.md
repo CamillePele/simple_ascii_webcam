@@ -7,6 +7,6 @@
 ## Tech
 Ascii-Webcam uses some python libraries to work properly:
 
-PILLOW - To handle easyli images
-CV2 - To read webcam
-python - ...
+- PILLOW - To handle easyli images
+- CV2 - To read webcam
+- python - ...
